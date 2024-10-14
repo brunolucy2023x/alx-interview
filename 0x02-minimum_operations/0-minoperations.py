@@ -6,6 +6,8 @@ needed to result in exactly n H characters in a file
 Prototype: def minOperations(n)
 Returns an integer
 if n is impossible to achieve, return 0
+
+Author: Bruno Owino
 """
 
 
