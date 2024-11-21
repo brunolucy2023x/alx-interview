@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """
 Test 0x07 - Rotate 2D Matrix
 """
